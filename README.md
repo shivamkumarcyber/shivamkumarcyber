@@ -27,7 +27,7 @@
 **Cyber Security Analyst** @ [miniOrange](https://www.miniorange.com) *(Jul 2025 – Present · Pune, India)*
 - SAST & DAST testing across WordPress security plugins (OAuth, SAML, MFA/OTP, LDAP, REST API)
 - VAPT on every product before launch + quarterly audits across all products
-- Security gatekeeper for the dev team — zero vulnerabilities reach production
+- Security gatekeeper for the dev team - zero vulnerabilities reach production
 - Tools: Burp Suite, Kali Linux, Postman, WP-CLI
 
 [→ Full experience on LinkedIn](https://www.linkedin.com/in/shivam-kumar-a5b0a1212/)
@@ -38,7 +38,7 @@
 
 | Project | Type | Status |
 |---|---|---|
-| [Woodpecker CI v3.14.1](https://github.com/woodpecker-ci/woodpecker/pull/6568) | Agent ID Spoofing — Critical | ✅ Fixed & Credited |
+| [Woodpecker CI v3.14.1](https://github.com/woodpecker-ci/woodpecker/pull/6568) | Agent ID Spoofing - Critical | ✅ Fixed & Credited |
 | NASA VDP | Vulnerability Disclosure | ✅ Officially Recognized |
 | CVE (pending) | To be disclosed | ⏳ Awaiting publication |
 
@@ -58,8 +58,9 @@
 
 | Certification | Issuer |
 |---|---|
+| Microsoft SC-200 - Security Operations Analyst | Microsoft |
 | Certified Ethical Hacker (CEH) | EC-Council |
-| Microsoft SC-200 — Security Operations Analyst | Microsoft |
+
 
 ---
 

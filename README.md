@@ -1,22 +1,62 @@
-<h1 align="center">Hi 👋, I'm Shivam kumar</h1>
-<h3 align="center">A passionate from cyberworld</h3>
+# Hi 👋, I'm Shivam Kumar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumarcyber&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumarcyber" /> </p>
+### Cybersecurity Analyst @ miniOrange | NASA Recognized Security Researcher
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkumarcyber" alt="shivamkumarcyber" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+🔐 Passionate about cybersecurity, ethical hacking, and digital forensics. Currently working as a Cybersecurity Analyst at **miniOrange**, where I help protect systems and users from modern threats.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/offi.cial_shivam_singh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="offi.cial_shivam_singh_rajput" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+## 🏆 Achievements
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamkumarcyber&show_icons=true&locale=en&layout=compact" alt="shivamkumarcyber" /></p>
+- 🚀 **NASA Recognized Security Researcher** — Acknowledged by NASA for responsible disclosure of a security vulnerability
+- 🎓 **B.Tech in Computer Science** — Specialization in **Cybersecurity & Digital Forensics**
+- 🏅 **Certified Ethical Hacker (CEH)**
+- 🛡️ **Microsoft SC-200** — Microsoft Security Operations Analyst
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamkumarcyber&show_icons=true&locale=en" alt="shivamkumarcyber" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkumarcyber&" alt="shivamkumarcyber" /></p>
+## 💼 Experience
+
+**Cybersecurity Analyst** @ [miniOrange](https://www.miniorange.com)
+- Working on Identity & Access Management (IAM), SSO, and security solutions
+- Analyzing and mitigating security threats
+- Conducting vulnerability assessments and security research
+
+---
+
+## 🛠️ Skills & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| Certified Ethical Hacker (CEH) | EC-Council |
+| Microsoft SC-200 | Microsoft |
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-a5b0a1212/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivamkumarcyber)
+
+---
+
+## 📊 GitHub Stats
+
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamkumarcyber&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumarcyber&layout=compact&theme=dark)
+
+---
+
+*"Security is not a product, but a process." — Bruce Schneier*

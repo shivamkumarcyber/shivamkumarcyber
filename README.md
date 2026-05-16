@@ -14,11 +14,11 @@
 
 - 🔓 **Woodpecker CI — Security Researcher (v3.14.1)** — Independently discovered and responsibly disclosed a critical agent_id spoofing vulnerability in [Woodpecker CI](https://github.com/woodpecker-ci/woodpecker) (7k ⭐ open-source CI/CD). Credited by name in the [official release changelog](https://github.com/woodpecker-ci/woodpecker/pull/6568). CVE pending.
 
-- 🎓 **B.Tech in Computer Science** — Specialization in **Cybersecurity & Digital Forensics**
+- 🎓 **B.Tech in Computer Science** - Specialization in **Cybersecurity & Digital Forensics**
 
-- 🏅 **Certified Ethical Hacker (CEH)** — EC-Council
+- 🏅 **Certified Ethical Hacker (CEH)** - EC-Council
 
-- 🛡️ **Microsoft SC-200** — Microsoft Security Operations Analyst
+- 🛡️ **Microsoft SC-200** - Microsoft Security Operations Analyst
 
 ---
 

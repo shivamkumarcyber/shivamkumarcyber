@@ -22,18 +22,6 @@
 
 ---
 
-## 💼 Experience
-
-**Cyber Security Analyst** @ [miniOrange](https://www.miniorange.com) *(Jul 2025 – Present · Pune, India)*
-- SAST & DAST testing across WordPress security plugins (OAuth, SAML, MFA/OTP, LDAP, REST API)
-- VAPT on every product before launch + quarterly audits across all products
-- Security gatekeeper for the dev team - zero vulnerabilities reach production
-- Tools: Burp Suite, Kali Linux, Postman, WP-CLI
-
-[→ Full experience on LinkedIn](https://www.linkedin.com/in/shivam-kumar-a5b0a1212/)
-
----
-
 ## 🔬 Security Research & Contributions
 
 | Project | Type | Status |
@@ -67,7 +55,6 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-a5b0a1212/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivamkumarcyber)
 
 ---
 
@@ -77,4 +64,4 @@
 
 ---
 
-> *"Security is not a product, but a process."* — Bruce Schneier
+> *"Security is not a product, but a process."*
